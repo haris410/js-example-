@@ -1,0 +1,2 @@
+<?php
+header_register_callback
